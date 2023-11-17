@@ -1,1 +1,1 @@
-# Create and Share Jupyter-Notebook - Tools for Data Science
+# Create and Share Jupyter Notebook - Tools for Data Science
